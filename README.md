@@ -1,4 +1,5 @@
 # GetThru / Skynet Take-Home Exercise
+![image](https://user-images.githubusercontent.com/83227995/139120549-61b184e3-5568-45b2-a085-652f52195d8c.png)
 
 Hello and thanks for taking the time to do GetThru's Elixir take-home coding exercise! We've prepared a fun exercise that will help us gauge your skill level with Elixir.
 
