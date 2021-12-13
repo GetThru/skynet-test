@@ -10,13 +10,13 @@ Hello and thanks for taking the time to do GetThru's Elixir take-home coding exe
 3. Create a branch other than master that will contain your work.
 4. Do the work described in "The Exercise" section.
 5. Make a pull request of your working branch to master. Write a description of your design choices, thoughts, setbacks, etc. in the PR description (template provided).
-6. Email a link to the PR back to us and we'll review it.
+6. Add your interviewers to the PR and send your recruiter a link to the PR and we'll review it. Once we receive it, we will send you a link to set up your interview.
 
 ### Regarding Time
 
-This is supposed to test your skills, not take up all of your free time. If you find yourself spending more than 3-4 hours on it, use your best judgement to find a stopping point and write a short description of what the challenges were.
+This is supposed to test your skills, not take up all of your free time. If you find yourself spending more than 3-4 hours on it and try to get it done and sent back within 3 days, use your best judgement to find a stopping point and write a short description of what the challenges were.
 
-Prioritize the server part of the exercise if you're short on time.
+Prioritize the server part of the exercise if you're short on time. Contact your recruiter or tech@getthru.io if you have any questions.
 
 ## The Exercise
 
