@@ -7,9 +7,9 @@ Hello and thanks for taking the time to do GetThru's Elixir take-home coding exe
 
 1. Clone this repo to your machine.
 2. Create a new _private_ repository under your account on GitHub (or similar service) and push the cloned project there. Don't just fork it because then other people can see your solution. You'll probably have to remove the existing git remotes in `.git/config` before doing this.
-3. Create a branch other than master that will contain your work.
+3. Create a branch other than main that will contain your work.
 4. Do the work described in "The Exercise" section.
-5. Make a pull request of your working branch to master. Write a description of your design choices, thoughts, setbacks, etc. in the PR description (template provided).
+5. Make a pull request of your working branch to main. Write a description of your design choices, thoughts, setbacks, etc. in the PR description (template provided).
 6. Add your interviewers to the PR and send your recruiter a link to the PR and we'll review it. Once we receive it, we will send you a link to set up your interview.
 
 ### Regarding Time
