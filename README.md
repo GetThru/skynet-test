@@ -10,13 +10,19 @@ Hello and thanks for taking the time to do GetThru's Elixir take-home coding exe
 3. Create a branch other than main that will contain your work.
 4. Do the work described in "The Exercise" section.
 5. Make a pull request of your working branch to main. Write a description of your design choices, thoughts, setbacks, etc. in the PR description (template provided).
-6. Add your interviewers to the PR and send your recruiter a link to the PR and we'll review it. Once we receive it, we will send you a link to set up your interview.
+6. Add `@crertel-getthru` to your PR. Once notified, he'll review your PR and if it looks good setup the interview.
 
 ### Regarding Time
 
 This is supposed to test your skills, not take up all of your free time. If you find yourself spending more than 3-4 hours on it and try to get it done and sent back within 3 days, use your best judgement to find a stopping point and write a short description of what the challenges were.
 
 Prioritize the server part of the exercise if you're short on time. Contact your recruiter or tech@getthru.io if you have any questions.
+
+### Regarding LLM assistance
+
+There are a wave of new tools like ChatGPT and copilot that can be very helpful, but they can also hallucinate and mislead.
+
+For the purposes of this exercise **do not use any code generated or derived from an LLM or chatbot**. If you need to use one to help explore a subject as you would Wikipedia or whatever, that's fine--but in order to get the best assessment of your skills and capabilities, we need you to solve this assignment on your own.
 
 ## The Exercise
 
